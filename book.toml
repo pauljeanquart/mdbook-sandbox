@@ -1,0 +1,6 @@
+[book]
+authors = ["Paul Jeanquart"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Sandbox"
