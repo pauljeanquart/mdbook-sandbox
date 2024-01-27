@@ -6,6 +6,8 @@ src = "src"
 title = "Sandbox"
 
 [output.html]
+destination = "docs"
+
 
 [output.pdf]
 ## Set for auto-retrying if failed to generate PDF.
