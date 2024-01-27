@@ -1,3 +1,4 @@
+[](cover.md)
 # Table of Contents
 [](SUMMARY.md)
 
