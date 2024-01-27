@@ -9,6 +9,7 @@ title = "HL Modern Development"
 
 
 [output.pdf]
+optional = true
 ## Set for auto-retrying if failed to generate PDF.
 # trying-times = 1
 ## Set the timeout in seconds.
@@ -40,6 +41,7 @@ footer-template = "<p style='font-size:10px; margin-left: 48%'><span class='page
 prefer-css-page-size = true
 
 [output.pdf-outline]
+optional = true
 like-wkhtmltopdf = false
 
 
