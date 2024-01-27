@@ -6,7 +6,6 @@ src = "src"
 title = "Sandbox"
 
 [output.html]
-destination = "docs"
 
 
 [output.pdf]
