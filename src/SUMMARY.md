@@ -1,6 +1,5 @@
 [](cover.md)
-# Table of Contents
-[](SUMMARY.md)
+[Table of Contents](Summary.md)
 
 # Summary
 - [Introduction](introduction.md)
