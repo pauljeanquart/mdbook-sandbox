@@ -1,22 +1,26 @@
 [](cover.md)
-[Table of Contents](Summary.md)
 
-# Summary
+
+[](Summary.md)
+
+# Table Of Contents
+
+## Summary
 - [Introduction](introduction.md)
 
-# Architecture
+## Architecture
 - [Network Overview](architecture/network-overview.md)
 - [Mixnet Traffic Flow](architecture/traffic-flow.md)
 <!-- todo reintroduce this with themed images  -->
 <!-- - [Network Rewards](architecture/network-rewards.md) --> 
 
-# Binaries
+## Binaries
 - [Pre-built Binaries](binaries/pre-built-binaries.md)
 - [Building from Source](binaries/building-nym.md)
 - [Binary Initialisation and Configuration](binaries/init-and-config.md)
 - [Version Compatibility Table](binaries/version-compatiblity.md)
 
-# Nodes 
+## Nodes 
 - [Node Setup Guides](nodes/setup-guides.md)
     - [Mix Node](nodes/mix-node-setup.md)
     - [Gateway](nodes/gateway-setup.md)
@@ -24,25 +28,25 @@
     - [Validator](nodes/validator-setup.md)
 - [Troubleshooting](nodes/troubleshooting.md)
 
-# Clients 
+## Clients 
 - [Clients Overview](clients/overview.md)
     - [Websocket](clients/websocket-client.md)
     - [Socks5](clients/socks5-client.md)
     - [Webassembly](clients/webassembly-client.md)
 - [Addressing System](clients/addressing-system.md)
 
-# SDK
+## SDK
 - [Typescript SDK](sdk/typescript.md)
 - [Rust SDK (coming soon)](sdk/rust.md)
 
-# Wallet
+## Wallet
 - [Desktop Wallet](wallet/desktop-wallet.md)
 - [CLI Wallet](wallet/cli-wallet.md)
 
-# Explorers 
+## Explorers 
 - [Mixnet Explorer](explorers/mixnet-explorer.md)
 
-# Nyx Blockchain
+## Nyx Blockchain
 <!-- - [Interacting with Nyx Chain and Smart Contracts](nyx/interacting-with-chain.md) -->
 - [Smart Contracts](nyx/smart-contracts.md)
     - [Mixnet Contract](nyx/mixnet-contract.md)
@@ -50,15 +54,15 @@
 - [RPC Nodes](nyx/rpc-node.md)
 - [Ledger Live Support](nyx/ledger-live.md)
 
-# Coconut 
+## Coconut 
 - [Coconut](coconut.md)
 - [Bandwidth Credentials](bandwidth-credentials.md)
 
-# Tools 
+## Tools 
 - [NymCLI](tools/nym-cli.md)
 
 --- 
-# Misc.
+## Misc.
 - [Code of Conduct](coc.md)
 - [Licensing](licensing.md)
 ---

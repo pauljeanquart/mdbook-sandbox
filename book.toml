@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "HL Modern Development"
+description = "Create book from markdown files. Like Gitbook but implemented in Rust"
 
 [output.html]
 
@@ -42,6 +43,6 @@ prefer-css-page-size = true
 
 [output.pdf-outline]
 optional = true
-like-wkhtmltopdf = false
+like-wkhtmltopdf = true
 
 
