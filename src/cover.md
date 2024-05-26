@@ -25,3 +25,11 @@ erDiagram
         string ItemDescription
     }
 ```
+
+
+```sql
+SELECT *
+FROM Company
+WHERE
+  CompanyID = 2;
+```
